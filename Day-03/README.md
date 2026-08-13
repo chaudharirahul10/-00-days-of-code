@@ -1,4 +1,5 @@
 # Day 03 — DSA: Linear Search 🔎
+Daily practice these types of question for better understand.
 
 ## What I Learned
 
