@@ -1,4 +1,4 @@
-# Day 12 - Find the Missing Number
+# Day 12 - Finding the Missing Number in an array
 
 ## 📌 Problem
 Given an array containing numbers from `0` to `n` with exactly one number missing, find the missing number.
