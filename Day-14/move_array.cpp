@@ -9,7 +9,7 @@ int main(){
         arr[i]=arr[i+1];
     }
     arr[n-1]=first;
-    cout<<"Day 14 - Array after shifting: ";
+    cout<<" Array after shifting: ";
     for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
     }
