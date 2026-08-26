@@ -41,7 +41,3 @@ Given an array, rotate all elements to the right by one position.
 * How to preserve an element using a temporary variable.
 * How to perform an in-place array operation.
 
-## 🚀 Progress
-
-**Day 15 / 100 ✅**
-
