@@ -44,5 +44,3 @@ Given an array, rotate all elements to the left by one position.
 ## 🚀 Progress
 
 **Day 16 / 100 ✅**
-
-Keep coding. Keep learning. Keep improving. 🔥
