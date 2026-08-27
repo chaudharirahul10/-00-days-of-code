@@ -40,7 +40,3 @@ Given an array, rotate all elements to the left by one position.
 * How to shift array elements efficiently.
 * How to preserve an element using a temporary variable.
 * How to perform an in-place array operation.
-
-## 🚀 Progress
-
-**Day 16 / 100 ✅**
