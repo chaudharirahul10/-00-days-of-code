@@ -18,10 +18,10 @@ int main(){
         }
     }
     if(isSorted){
-        cout << "The array is sorted in ascending order." << endl;
+        cout << "The array is sorted." << endl;
     }
     else{
-        cout << "The array is not sorted in ascending order." << endl;
+        cout << "The array is not sorted." << endl;
     }
     return 0;
 }
