@@ -5,6 +5,7 @@
 Given an array, check whether the elements are arranged in **ascending order** or not.
 
 ## 💡 Example
+**user can select the size of an array.
 
 **Input:**
 ```text
