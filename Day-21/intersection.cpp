@@ -6,7 +6,7 @@ int main(){
     int arr2[] = {2, 2, 4, 5};
     int n1 = sizeof(arr1) / sizeof(arr1[0]);
     int n2 = sizeof(arr2) / sizeof(arr2[0]);
-    cout << "Intersection of two arrays is: ";
+    cout << "Intersection of two given arrays is: ";
     for(int i = 0; i < n1; i++){
         bool alreadyPrinted = false;
         for(int k = 0; k < i; k++){
